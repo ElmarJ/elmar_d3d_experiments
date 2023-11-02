@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Direct3DGame1", "Direct3DGame1\Direct3DGame1.vcxproj", "{BD1A0EB3-B2F3-4838-9B46-49ECC2449D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Gaming.Desktop.x64 = Debug|Gaming.Desktop.x64
+		Profile|Gaming.Desktop.x64 = Profile|Gaming.Desktop.x64
+		Release|Gaming.Desktop.x64 = Release|Gaming.Desktop.x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1A0EB3-B2F3-4838-9B46-49ECC2449D41}.Debug|Gaming.Desktop.x64.ActiveCfg = Debug|Gaming.Desktop.x64
+		{BD1A0EB3-B2F3-4838-9B46-49ECC2449D41}.Debug|Gaming.Desktop.x64.Build.0 = Debug|Gaming.Desktop.x64
+		{BD1A0EB3-B2F3-4838-9B46-49ECC2449D41}.Profile|Gaming.Desktop.x64.ActiveCfg = Profile|Gaming.Desktop.x64
+		{BD1A0EB3-B2F3-4838-9B46-49ECC2449D41}.Profile|Gaming.Desktop.x64.Build.0 = Profile|Gaming.Desktop.x64
+		{BD1A0EB3-B2F3-4838-9B46-49ECC2449D41}.Release|Gaming.Desktop.x64.ActiveCfg = Release|Gaming.Desktop.x64
+		{BD1A0EB3-B2F3-4838-9B46-49ECC2449D41}.Release|Gaming.Desktop.x64.Build.0 = Release|Gaming.Desktop.x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267EBE98-212A-4226-96B1-0392BBB705F2}
+	EndGlobalSection
+EndGlobal
